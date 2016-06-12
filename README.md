@@ -30,6 +30,8 @@ This is a fork of UFO's plugin package updated for VS2015
 ## Plugins using this pluginpack
 
   * https://github.com/kbilsted/NppPluginGuidHelper
+  * https://github.com/zkirkland/FirstUpper
+  * https://github.com/kbilsted/NppPluginCutNCopyLine
   
 
 ## How to start coding plugins
