@@ -66,6 +66,16 @@ The architecture of the plugin is.
                        | Plugin    |
                        +-----------+ 
 
+### How to debug plugins
+
+  * start notepad++
+  * in Visualstudio: debug -> attach to process... -> notepad++.exe
+
+you can now set breakpoints and step-execute. (currently not working in v6.9.2 https://github.com/notepad-plus-plus/notepad-plus-plus/issues/1964) 
+  
+   * you can make this process easier by setting the "start action" in the project -> properties -> debug to start notepad++.exe - then you can simply build and hit `F5`.
+
+
 ## Versioning
 Until we reach v1.0 expect a bit of chaos and breaking changes.
 
